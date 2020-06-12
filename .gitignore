@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# unused data
+data/(new)工業增加值同比(IAV)同比.xls
+data/(new)外匯期末儲備_無同比.xls
+data/(new)全國房地產景氣指數_無同比.xls
+data/(new)社會消費品零售總額同比.xls
+data/(new)發電量+同比.xls
+data/CCI.csv
+data/CPI_RawMaterial.csv
+data/PPI.csv
+data/SH_Index.csv
